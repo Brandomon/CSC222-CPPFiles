@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631725607 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 222-301w\examples\5. drawingrectangles\main.cpp
+	<SDL.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+

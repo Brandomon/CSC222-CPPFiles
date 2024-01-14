@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631162417 source:c:\users\bmlgu\desktop\csc 222-301w\examples\runningyourgamewindow\main.cpp
+	<SDL.h>
+	<cstdio>
+

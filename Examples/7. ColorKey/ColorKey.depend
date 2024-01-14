@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631732052 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 222-301w\examples\7. colorkey\main.cpp
+	<SDL.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<string>
+

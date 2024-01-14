@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631163603 source:c:\users\bmlgu\desktop\csc 222-301w\examples\thegameloop\main.cpp
+	<SDL.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+

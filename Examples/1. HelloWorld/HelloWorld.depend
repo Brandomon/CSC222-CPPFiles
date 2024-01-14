@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630370067 source:c:\users\bmlgu\desktop\csc 222-301w\examples\helloworld\main.cpp
+	<SDL.h>
+	<cstdio>
+
