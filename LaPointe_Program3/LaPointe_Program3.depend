@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1633116170 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 222-301w\programs\lapointe_program3\main.cpp
+	<SDL.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<string>
+
