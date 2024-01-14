@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1634199209 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 222-301w\midterm\singleplayerpong\main.cpp
+	<SDL.h>
+	<SDL_mixer.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1634195609 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 222-301w\midterm project\singleplayerpong\main.cpp
+	<SDL.h>
+	<SDL_mixer.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<string>
+
